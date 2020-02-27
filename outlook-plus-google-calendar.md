@@ -10,9 +10,14 @@
 4. Click publish
 5. Copy the ICS calendar link
 
+
+![Publish outlook calendar](./images/publish-calendar.png)
+
 ## In Gmail
 1. Open your Google calendar
 2. Click on Other Calendars -> Add -> From URL
+ 
+<img src="./images/from-url.png" alt="Import calendar from URL" width="450"/>
 
 3. Paste the ICS link and then click on Add Calendar
 4. Refresh the calendar page
