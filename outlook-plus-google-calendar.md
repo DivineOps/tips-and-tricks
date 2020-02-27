@@ -1,4 +1,4 @@
-# Integrating an Outlook calendar into Google calendar
+# Integrating your Outlook calendar into your Google calendar
 
 ## In Outlook
 1. In your o365 Outlook, open the online shared calendar:
